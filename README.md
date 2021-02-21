@@ -9,3 +9,35 @@ Next steps are as follows:
 * add modules for training and predicitng
 
 ![alt text](./photo.png)
+
+## Running intructions
+
+### General Start-Up:
+--
+type in the console: `python app.py`
+
+
+### Running by Virtual Environment (Windows):
+--
+`pip install virtualenv`
+
+`virtualenv myenv` or `python -m venv myenv`
+
+`start myenv\Scripts\activate.bat`
+
+`pip install -r requirements.txt`
+
+`python app.py`
+
+### Running by Virtual Environment - Linux or MacOS:
+--
+
+`pip install virtualenv`
+
+`virtualenv myenv` or `python -m venv myenv`
+
+`source myenv/bin/activate`
+
+`pip install -r requirements.txt`
+
+`python app.py`
