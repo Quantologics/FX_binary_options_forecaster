@@ -13,12 +13,12 @@ Next steps are as follows:
 ## Running intructions
 
 ### General Start-Up:
---
+
 type in the console: `python app.py`
 
 
 ### Running by Virtual Environment (Windows):
---
+
 `pip install virtualenv`
 
 `virtualenv myenv` or `python -m venv myenv`
@@ -30,7 +30,7 @@ type in the console: `python app.py`
 `python app.py`
 
 ### Running by Virtual Environment - Linux or MacOS:
---
+
 
 `pip install virtualenv`
 
