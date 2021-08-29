@@ -1,4 +1,4 @@
-# Update - due to certain unfortunate life circumstances, I had to suspend the project temporarily - I will get back to it in a matter of months
+# Update - due to certain unfortunate life circumstances, I had to suspend the project temporarily - I will get back to it as soon as I can
 
 # FX Binary Options Forecaster - Under Development!
 
