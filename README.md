@@ -1,3 +1,5 @@
+# Update - due to certain unfortunate life circumstances, I had to suspend the project temporarily - I will get back to it in a matter of months
+
 # FX Binary Options Forecaster - Under Development!
 
 The project is currently under development, and it will be updated from time to time with new features.
